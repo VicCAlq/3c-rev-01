@@ -71,13 +71,13 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let funçãoImportante = true
 
 /* Questão 02 */
-export class Clientesdosalão {}
+export class ClientesDoSalao {}
 
 /* Questão 03 */
-export let próximaEtapa = true
+export let proximaEtapa = true
 
 /* Questão 04 */
-export const dataehorario = true
+export const dataEHorario = true
 
 /* Questão 05 */
 export const vídeoAula = true
@@ -89,7 +89,7 @@ export let arquivoprincipal = true
 export class CômodosDaCasa {}
 
 /* Questão 08 */
-export let s4rodas = true
+export let quatroRodas = true
 
 /* Questão 09 */
 export let _5powerRangers = true

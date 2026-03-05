@@ -153,10 +153,10 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 export const resposta01 = true
 
 /* Questão 02: kira enxerga kakyoin?*/
-export const resposta02 = true
+export const resposta02 = false
 
 /* Questão 03: wham enxerga polnareff?*/
-export const resposta03 = true
+export const resposta03 = false
 
 /* Questão 04: emporio enxerga bruno?*/
 export const resposta04 = false

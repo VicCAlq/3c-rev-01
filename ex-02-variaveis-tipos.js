@@ -37,28 +37,28 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "string"
+export let musicaFavorita = "fyjyfgj"
 
 /* Questão 02 */
-export let objetoQualquer = "object"
+export let objetoQualquer = Object
 
 /* Questão 03 */
-export let valorIndefinido = "undefined"
+export let valorIndefinido = undefined
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao = "boolean"
+export let tartarugasVoamVerdadeOuNao = false
 
 /* Questão 05 */
-export let noveDivididoPorTres = "numero"
+export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao = "boolean"
+export let papagaiosFalamVerdadeOuNao = true
 
 /* Questão 07 */
-export let umaFuncao = "function"
+export let umaFuncao = function(){}
 
 /* Questão 08 */
-export let cemDivididoPorCinco = "bigiant"
+export let cemDivididoPorCinco = ""
 
 /* Questão 09 */
 
