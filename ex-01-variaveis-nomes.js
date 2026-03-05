@@ -71,34 +71,34 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let funçãoImportante = true
 
 /* Questão 02 */
-export class clientes_do_salão {}
+export class Clientesdosalão {}
 
 /* Questão 03 */
 export let próximaEtapa = true
 
 /* Questão 04 */
-export const data_e_horario = true
+export const dataehorario = true
 
 /* Questão 05 */
 export const vídeoAula = true
 
 /* Questão 06 */
-export let arquivo_principal = true
+export let arquivoprincipal = true
 
 /* Questão 07 */
 export class CômodosDaCasa {}
 
 /* Questão 08 */
-export let $4rodas = true
+export let s4rodas = true
 
 /* Questão 09 */
-export let _5PowerRangers = true
+export let _5powerRangers = true
 
 /* Questão 10 */
-export let puro_Aço = true
+export let puroAço = true
 
 /* Questão 11 */
-export const $100reaisEmBarras_de_OURO = true
+export const rs100reaisEmBarrasdeOURO = true
 
 /* Questão 12 */
 export const páginaInicial = true
@@ -107,23 +107,23 @@ export const páginaInicial = true
 export let _5patinhosForamPassear = true
 
 /* Questão 14 */
-export class $1besouro {}
+export class Rs1besouro {}
 
 /* Questão 15 */
-export class Roupas_Juninas {}
+export class RoupasJuninas {}
 
 /* Questão 16 */
 export let cálculosMatemáticos = true
 
 /* Questão 17 */
-export const camaMesa_E_Banho = true
+export const camaMesaEBanho = true
 
 /* Questão 18 */
 export let preçoDOproduto = true
 
 /* Questão 19 */
-export const código_fonte = true
+export const códigofonte = true
 
 /* Questão 20 */
-export class Cabo_frio {}
+export class Cabofrio {}
 

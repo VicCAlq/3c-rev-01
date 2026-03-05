@@ -37,62 +37,62 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita
+export let musicaFavorita = "string"
 
 /* Questão 02 */
-export let objetoQualquer
+export let objetoQualquer = "object"
 
 /* Questão 03 */
-export let valorIndefinido
+export let valorIndefinido = "undefined"
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
+export let tartarugasVoamVerdadeOuNao = "boolean"
 
 /* Questão 05 */
-export let noveDivididoPorTres
+export let noveDivididoPorTres = "numero"
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
+export let papagaiosFalamVerdadeOuNao = "boolean"
 
 /* Questão 07 */
-export let umaFuncao
+export let umaFuncao = "function"
 
 /* Questão 08 */
-export let cemDivididoPorCinco
+export let cemDivididoPorCinco = "bigiant"
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola
+export let nomeDaSuaEscola = "string"
 /* Questão 10 */
 
-export let quinzeMaisCinco
+export let quinzeMaisCinco = "number"
 /* Questão 11 */
 
-export let valorFalso
+export let valorFalso = "string"
 /* Questão 12 */
 
-export let dezMaisQuatro
+export let dezMaisQuatro = "number"
 
 /* Questão 13 */
-export let nomeDoSeuEstado
+export let nomeDoSeuEstado = "string"
 
 /* Questão 14 */
-export let artistaFavorito
+export let artistaFavorito = "string"
 
 /* Questão 15 */
-export let seteVezesSete
+export let seteVezesSete = "number"
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
+export let umMaiorQueDoisVerdadeOuNao = "boolean"
 
 /* Questão 17 */
-export let comidaFavorita
+export let comidaFavorita = "string"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
+export let oCeuEhAzulVerdadeOuNao = "boolean"
 
 /* Questão 19 */
-export let objetoNulo
+export let objetoNulo = "symbol"
 
 /* Questão 20 */
-export let valorVerdadeiro
+export let valorVerdadeiro = "symbol"
