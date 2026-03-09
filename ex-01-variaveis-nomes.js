@@ -92,7 +92,7 @@ export class ComodosDaCasa {}
 export let quatroRodas = true
 
 /* Questão 09 */
-export let powerRangers = true
+export let cincoPowerRangers = true
 
 /* Questão 10 */
 export let puroAco = true
