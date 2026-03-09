@@ -37,7 +37,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let musicaFavorita = "fyjyfgj"
+export let musicaFavorita = "otherside"
 
 /* Questão 02 */
 export let objetoQualquer = Object
@@ -58,38 +58,38 @@ export let papagaiosFalamVerdadeOuNao = true
 export let umaFuncao = function(){}
 
 /* Questão 08 */
-export let cemDivididoPorCinco = ""
+export let cemDivididoPorCinco = 20
 
 /* Questão 09 */
 
-export let nomeDaSuaEscola = "string"
+export let nomeDaSuaEscola = "ete cicero dias"
 /* Questão 10 */
 
-export let quinzeMaisCinco = "number"
+export let quinzeMaisCinco = 20
 /* Questão 11 */
 
 export let valorFalso = "string"
 /* Questão 12 */
 
-export let dezMaisQuatro = "number"
+export let dezMaisQuatro = 14
 
 /* Questão 13 */
-export let nomeDoSeuEstado = "string"
+export let nomeDoSeuEstado = "pernambuco"
 
 /* Questão 14 */
-export let artistaFavorito = "string"
+export let artistaFavorito = "djavan"
 
 /* Questão 15 */
-export let seteVezesSete = "number"
+export let seteVezesSete = 49
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao = "boolean"
+export let umMaiorQueDoisVerdadeOuNao = "false"
 
 /* Questão 17 */
-export let comidaFavorita = "string"
+export let comidaFavorita = "parmegianna"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = "boolean"
+export let oCeuEhAzulVerdadeOuNao = "verdade"
 
 /* Questão 19 */
 export let objetoNulo = "symbol"

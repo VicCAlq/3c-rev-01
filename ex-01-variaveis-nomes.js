@@ -80,13 +80,13 @@ export let proximaEtapa = true
 export const dataEHorario = true
 
 /* Questão 05 */
-export const vídeoAula = true
+export const videoAula = true
 
 /* Questão 06 */
 export let arquivoprincipal = true
 
 /* Questão 07 */
-export class CômodosDaCasa {}
+export class ComodosDaCasa {}
 
 /* Questão 08 */
 export let quatroRodas = true
@@ -101,7 +101,7 @@ export let puroAço = true
 export const rs100reaisEmBarrasdeOURO = true
 
 /* Questão 12 */
-export const páginaInicial = true
+export const paginaInicial = true
 
 /* Questão 13 */
 export let _5patinhosForamPassear = true
@@ -113,7 +113,7 @@ export class Rs1besouro {}
 export class RoupasJuninas {}
 
 /* Questão 16 */
-export let cálculosMatemáticos = true
+export let calculosMatemáticos = true
 
 /* Questão 17 */
 export const camaMesaEBanho = true
@@ -122,7 +122,7 @@ export const camaMesaEBanho = true
 export let preçoDOproduto = true
 
 /* Questão 19 */
-export const códigofonte = true
+export const codigofonte = true
 
 /* Questão 20 */
 export class Cabofrio {}
