@@ -40,7 +40,15 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let musicaFavorita = "Poison"
 
 /* Questão 02 */
-export let objetoQualquer = "Casaco"
+export let objetoQualquer = {
+    nome: Pincel,
+    cor: roxo,
+    pintar: function()
+    {
+        console.log("pintando desenho");
+
+    }
+};
 
 /* Questão 03 */
 export let valorIndefinido = undefined
