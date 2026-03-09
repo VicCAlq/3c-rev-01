@@ -180,4 +180,4 @@ export const resposta09 = true;
 export const resposta10 = false;
 
 /* Questão 10: giorno enxerga mista?*/
-export const resposta10 = undefined
+export const resposta10 = false;
