@@ -125,5 +125,5 @@ export let precoDoProduto = true
 export const codigoFonte = true
 
 /* Questão 20 */
-export class CaboFrio
+export class CaboFrio {}
 
