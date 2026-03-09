@@ -46,13 +46,13 @@ export let objetoQualquer = [1,2,3]
 export let valorIndefinido = undefined;
 
 /* Questão 04 */
-export let tartarugasVoamVerdadeOuNao = "Não";
+export let tartarugasVoamVerdadeOuNao = false;
 
 /* Questão 05 */
 export let noveDivididoPorTres = 3
 
 /* Questão 06 */
-export let papagaiosFalamVerdadeOuNao = "Sim";
+export let papagaiosFalamVerdadeOuNao = true;
 
 /* Questão 07 */
 export let umaFuncao = function (params) {
@@ -85,13 +85,13 @@ export let artistaFavorito = "Eichiro Oda"
 export let seteVezesSete = 49
 
 /* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao = "não"
+export let umMaiorQueDoisVerdadeOuNao = false
 
 /* Questão 17 */
 export let comidaFavorita = "Buchada requentada de domingo passado"
 
 /* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao = "sim"
+export let oCeuEhAzulVerdadeOuNao = true
 
 /* Questão 19 */
 export let objetoNulo = null

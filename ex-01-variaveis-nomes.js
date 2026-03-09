@@ -77,7 +77,7 @@ export class ClientesDoSalao {}
 export let proximaEtapa = true
 
 /* Questão 04 */
-export const dataeHorario = true
+export const dataEHorario = true
 
 /* Questão 05 */
 export const videoAula = true
