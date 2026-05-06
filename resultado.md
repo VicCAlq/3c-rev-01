@@ -1,52 +1,58 @@
-| Questão | Exercício | Entregue | Correto |
-|---------|-----------|----------|---------|
-|  1 | Ex 01 | ✅ | ✅ |
-|  2 | Ex 01 | ❌ | ❌ |
-|  3 | Ex 01 | ✅ | ✅ |
-|  4 | Ex 01 | ✅ | ✅ |
-|  5 | Ex 01 | ❌ | ❌ |
-|  6 | Ex 01 | ✅ | ✅ |
-|  7 | Ex 01 | ✅ | ✅ |
-|  8 | Ex 01 | ✅ | ✅ |
-|  9 | Ex 01 | ✅ | ✅ |
-| 10 | Ex 01 | ✅ | ✅ |
-| 11 | Ex 01 | ✅ | ✅ |
-| 12 | Ex 01 | ✅ | ✅ |
-| 13 | Ex 01 | ✅ | ✅ |
-| 14 | Ex 01 | ✅ | ✅ |
-| 15 | Ex 01 | ✅ | ✅ |
-| 16 | Ex 01 | ✅ | ✅ |
-| 17 | Ex 01 | ✅ | ✅ |
-| 18 | Ex 01 | ❌ | ❌ |
-| 19 | Ex 01 | ✅ | ✅ |
-| 20 | Ex 01 | ✅ | ✅ |
-|  1 | Ex 03 | ✅ | ✅ |
-|  2 | Ex 03 | ✅ | ✅ |
-|  3 | Ex 03 | ✅ | ✅ |
-|  4 | Ex 03 | ✅ | ✅ |
-|  5 | Ex 03 | ✅ | ✅ |
-|  6 | Ex 03 | ✅ | ✅ |
-|  7 | Ex 03 | ✅ | ✅ |
-|  8 | Ex 03 | ✅ | ✅ |
-|  9 | Ex 03 | ✅ | ✅ |
-| 10 | Ex 03 | ✅ | ✅ |
-|  1 | Ex 04 | ✅ | ✅ |
-|  2 | Ex 04 | ✅ | ✅ |
-|  3 | Ex 04 | ✅ | ✅ |
-|  4 | Ex 04 | ✅ | ✅ |
-|  5 | Ex 04 | ✅ | ✅ |
-|  6 | Ex 04 | ✅ | ✅ |
-|  7 | Ex 04 | ✅ | ✅ |
-|  8 | Ex 04 | ✅ | ✅ |
-|  9 | Ex 04 | ✅ | ✅ |
-| 10 | Ex 04 | ✅ | ✅ |
-| 11 | Ex 04 | ✅ | ✅ |
-| 12 | Ex 04 | ✅ | ✅ |
-| 13 | Ex 04 | ✅ | ✅ |
-| 14 | Ex 04 | ✅ | ✅ |
-| 15 | Ex 04 | ✅ | ✅ |
-| 16 | Ex 04 | ✅ | ✅ |
-| 17 | Ex 04 | ✅ | ✅ |
-| 18 | Ex 04 | ✅ | ✅ |
-| 19 | Ex 04 | ✅ | ✅ |
-| 20 | Ex 04 | ✅ | ✅ |
+Data de atualização: Dia 06/05/2026 às 11:15:42
+ 
+
+| Questão | Exercício | Entregue | Correto | Mensagem de Erro |
+|---------|-----------|----------|---------|------------------|
+| ❌❌❌ | Ex 2 | ❌❌❌ | ❌❌❌ | Parse failure: `let` cannot be used as an identifier in strict mode
+At file: /ex-02-variaveis-tipos.js:58:23 |
+| ❌❌❌ | Ex 5 | ❌❌❌ | ❌❌❌ | 3 is not a function |
+|  1 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  2 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+|  3 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  4 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  5 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  6 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  7 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  8 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  9 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 10 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 11 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 12 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 13 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 14 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 15 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 16 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 17 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 18 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 19 | Ex 01 | ✅ | ✅ | Nenhum erro |
+| 20 | Ex 01 | ✅ | ✅ | Nenhum erro |
+|  1 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  2 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  3 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  4 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  5 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  6 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  7 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  8 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  9 | Ex 03 | ✅ | ✅ | Nenhum erro |
+| 10 | Ex 03 | ✅ | ✅ | Nenhum erro |
+|  1 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  2 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  3 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  4 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  5 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  6 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  7 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  8 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  9 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 10 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 11 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 12 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 13 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 14 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 15 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 16 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 17 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 18 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 19 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 20 | Ex 04 | ✅ | ✅ | Nenhum erro |
